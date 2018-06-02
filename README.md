@@ -7,3 +7,4 @@ A curated list of amazingly awesome PHP extensions
 - [donkeyid](https://github.com/osgochina/donkeyid) - (@osgochina) 64位自增id生成器
 - [Pimple](https://github.com/silexphp/Pimple) - (@silexphp) 依赖注入容器的php扩展实现版
 - [SeasLog](https://github.com/SeasX/SeasLog) - (@Neeke) 高效快速的日志扩展
+- [phpredis](https://github.com/phpredis/phpredis) - (@phpredis) Redis客户端扩展
