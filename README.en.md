@@ -11,3 +11,4 @@ A curated list of amazingly awesome PHP extensions
 
 - [yaf](https://github.com/laruence/yaf) - (@laruence) A fast php framework 
 - [phalcon](https://github.com/phalcon) - (@phalcon) High performance, full-stack PHP framework delivered as a C extension. 
+- [asf](https://github.com/yulonghu/asf) - (@yulonghu) High performance PHP framework written in C, Work so easy.
