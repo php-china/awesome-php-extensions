@@ -16,4 +16,6 @@ A curated list of amazingly awesome PHP extensions
 
 - [Opcache]()
 - [APCu]()
+
 - [XDebug]()
+- [vld](https://github.com/derickr/vld) - (@derickr) 输出PHP脚本生成的中间代码
