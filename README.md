@@ -1,7 +1,6 @@
 # Awesome PHP Extensions
 
-
-A curated list of amazingly awesome PHP extensions
+PHP扩展资源列表
 
 - [swoole](https://github.com/swoole/swoole-src) - (@rango) PHP的异步、并行、高性能网络通信引擎
 
@@ -13,12 +12,14 @@ A curated list of amazingly awesome PHP extensions
 
 - [phpredis](https://github.com/phpredis/phpredis) - (@phpredis) Redis客户端扩展
 
+- [yar](https://github.com/laruence/yar) - (@laruence) A fast php framework 
 - [yaf](https://github.com/laruence/yaf) - (@laruence) 高性能框架 
 - [phalcon](https://github.com/phalcon) - (@phalcon) 高性能框架
 - [asf](https://github.com/yulonghu/asf) - (@yulonghu) 全称 API Services Framework, 用C语言编写的高性能PHP框架, Work so easy.
 
 - [Opcache]()
 - [APCu]()
+- [APC]()
 
-- [XDebug]()
+- [XDebug](https://xdebug.org/) - (@derickr) PHP程序调试器
 - [vld](https://github.com/derickr/vld) - (@derickr) 输出PHP脚本生成的中间代码

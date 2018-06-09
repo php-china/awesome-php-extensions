@@ -20,6 +20,7 @@ A curated list of amazingly awesome PHP extensions
 
 - [Opcache]()
 - [APCu]()
+- [APC]()
 
-- [XDebug]()
+- [XDebug](https://xdebug.org/) - (@derickr) Step Debugger and Debugging Aid for PHP
 - [vld](https://github.com/derickr/vld) - (@derickr) show low level PHP structures
