@@ -22,5 +22,7 @@ A curated list of amazingly awesome PHP extensions
 - [APCu]()
 - [APC]()
 
+- [XHProf](https://github.com/phacility/xhprof) - (@phacility) XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based user interface.
+- [Molten](https://github.com/chuan-yun/Molten) - (@chuanyun) php probe for zipkin and opentracing 
 - [XDebug](https://xdebug.org/) - (@derickr) Step Debugger and Debugging Aid for PHP
 - [vld](https://github.com/derickr/vld) - (@derickr) show low level PHP structures

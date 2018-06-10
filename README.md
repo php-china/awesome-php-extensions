@@ -21,5 +21,7 @@ PHP扩展资源列表
 - [APCu]()
 - [APC]()
 
+- [XHProf](https://github.com/phacility/xhprof) - (@phacility) PHP性能分析工具
+- [Molten](https://github.com/chuan-yun/Molten) - (@chuanyun) 应用透明链路追踪工具 
 - [XDebug](https://xdebug.org/) - (@derickr) PHP程序调试器
 - [vld](https://github.com/derickr/vld) - (@derickr) 输出PHP脚本生成的中间代码
