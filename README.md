@@ -16,6 +16,7 @@ PHP扩展资源列表
 - [yaf](https://github.com/laruence/yaf) - (@laruence) 高性能框架 
 - [phalcon](https://github.com/phalcon) - (@phalcon) 高性能框架
 - [asf](https://github.com/yulonghu/asf) - (@yulonghu) 全称 API Services Framework, 用C语言编写的高性能PHP框架, Work so easy.
+- [ice](https://github.com/ice) - (@mruz) 使用Zephir编写的框架 
 
 - [Opcache]()
 - [APCu]()
@@ -25,3 +26,5 @@ PHP扩展资源列表
 - [Molten](https://github.com/chuan-yun/Molten) - (@chuanyun) 应用透明链路追踪工具 
 - [XDebug](https://xdebug.org/) - (@derickr) PHP程序调试器
 - [vld](https://github.com/derickr/vld) - (@derickr) 输出PHP脚本生成的中间代码
+
+- [zephir](https://github.com/phalcon/zephir) 编写PHP扩展的语言
