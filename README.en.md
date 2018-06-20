@@ -18,6 +18,7 @@ A curated list of amazingly awesome PHP extensions
 - [phalcon](https://github.com/phalcon) - (@phalcon) High performance, full-stack PHP framework delivered as a C extension. 
 - [asf](https://github.com/yulonghu/asf) - (@yulonghu) High performance PHP framework written in C, Work so easy.
 - [ice](https://github.com/ice) - (@mruz) PHP framework written in Zephir delivered as a C-extension 
+- [CSpeed](https://github.com/liqiongfan/cspeed) - (@liqiongfan) A php framework based on C extension
 
 - [Opcache](http://php.net/manual/zh/book.opcache.php) - ()
 - [APCu]()

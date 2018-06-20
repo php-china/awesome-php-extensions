@@ -17,6 +17,7 @@ PHP扩展资源列表
 - [phalcon](https://github.com/phalcon) - (@phalcon) 高性能框架
 - [asf](https://github.com/yulonghu/asf) - (@yulonghu) 全称 API Services Framework, 用C语言编写的高性能PHP框架, Work so easy.
 - [ice](https://github.com/ice) - (@mruz) 使用Zephir编写的框架 
+- [CSpeed](https://github.com/liqiongfan/cspeed) - (@liqiongfan) CSpeed框架，全堆栈的基于C语言的PHP扩展框架，以高性能为目标
 
 - [Opcache](http://php.net/manual/zh/book.opcache.php) - ()
 - [APCu]()
