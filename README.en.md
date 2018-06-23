@@ -1,6 +1,5 @@
 # Awesome PHP Extensions
 
-
 A curated list of amazingly awesome PHP extensions
 
 - [swoole](https://github.com/swoole/swoole-src) Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP
@@ -10,6 +9,7 @@ A curated list of amazingly awesome PHP extensions
 - [donkeyid](https://github.com/osgochina/donkeyid) - (@osgochina) id generator
 - [SeasLog](https://github.com/SeasX/SeasLog) - (@Neeke) logger extension
 - [yaconf](https://github.com/laruence/yaconf) - (@laruence) A PHP Persistent Configurations Container
+- [ds](https://github.com/php-ds/extension) - (@php-ds) An extension providing efficient data structures for PHP 7 
 
 - [phpredis](https://github.com/phpredis/phpredis) - (@phpredis) Redis client
 

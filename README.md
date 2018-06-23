@@ -9,6 +9,7 @@ PHP扩展资源列表
 - [donkeyid](https://github.com/osgochina/donkeyid) - (@osgochina) 64位自增id生成器
 - [SeasLog](https://github.com/SeasX/SeasLog) - (@Neeke) 高效快速的日志扩展
 - [yaconf](https://github.com/laruence/yaconf) - (@laruence) 高性能的配置管理扩展
+- [ds](https://github.com/php-ds/extension) - (@php-ds) php数据结构扩展
 
 - [phpredis](https://github.com/phpredis/phpredis) - (@phpredis) Redis客户端扩展
 
