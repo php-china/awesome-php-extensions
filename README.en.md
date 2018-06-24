@@ -28,5 +28,6 @@ A curated list of amazingly awesome PHP extensions
 - [Molten](https://github.com/chuan-yun/Molten) - (@chuanyun) php probe for zipkin and opentracing 
 - [XDebug](https://xdebug.org/) - (@derickr) Step Debugger and Debugging Aid for PHP
 - [vld](https://github.com/derickr/vld) - (@derickr) show low level PHP structures
+- [php-spx](https://github.com/NoiseByNorthwest/php-spx) - (@NoiseByNorthwest) A simple & straight-to-the-point PHP profiling extension with its built-in web UI 
 
 - [zephir](https://github.com/phalcon/zephir) Zephir is a compiled high level language aimed to the creation of C-extensions for PHP

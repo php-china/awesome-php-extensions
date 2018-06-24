@@ -28,5 +28,6 @@ PHP扩展资源列表
 - [Molten](https://github.com/chuan-yun/Molten) - (@chuanyun) 应用透明链路追踪工具 
 - [XDebug](https://xdebug.org/) - (@derickr) PHP程序调试器
 - [vld](https://github.com/derickr/vld) - (@derickr) 输出PHP脚本生成的中间代码
+- [php-spx](https://github.com/NoiseByNorthwest/php-spx) - (@NoiseByNorthwest) 自带后台界面的性能分析工具
 
 - [zephir](https://github.com/phalcon/zephir) 编写PHP扩展的语言
