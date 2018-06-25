@@ -10,6 +10,7 @@ PHP扩展资源列表
 - [SeasLog](https://github.com/SeasX/SeasLog) - (@Neeke) 高效快速的日志扩展
 - [yaconf](https://github.com/laruence/yaconf) - (@laruence) 高性能的配置管理扩展
 - [ds](https://github.com/php-ds/extension) - (@php-ds) php数据结构扩展
+- [geohash](https://github.com/taogogo/geohash-php-extention) - (@taogogo) 转换经纬度和geohash
 
 - [phpredis](https://github.com/phpredis/phpredis) - (@phpredis) Redis客户端扩展
 

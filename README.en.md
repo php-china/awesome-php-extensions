@@ -10,6 +10,7 @@ A curated list of amazingly awesome PHP extensions
 - [SeasLog](https://github.com/SeasX/SeasLog) - (@Neeke) logger extension
 - [yaconf](https://github.com/laruence/yaconf) - (@laruence) A PHP Persistent Configurations Container
 - [ds](https://github.com/php-ds/extension) - (@php-ds) An extension providing efficient data structures for PHP 7 
+- [geohash](https://github.com/taogogo/geohash-php-extention) - (@taogogo) convert geohash and coord 
 
 - [phpredis](https://github.com/phpredis/phpredis) - (@phpredis) Redis client
 
